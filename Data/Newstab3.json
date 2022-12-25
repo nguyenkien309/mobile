@@ -1,0 +1,44 @@
+{
+    "Places": [
+        {
+            "Title": "Canada",
+            "imgPlace": "https://raw.githubusercontent.com/hakymz/TravelAppUIReactNative/main/src/assets/location1.jpg",
+            "recommend": "https://globalgrasshopper.com/wp-content/uploads/2011/11/Top-10-of-the-most-beautiful-places-to-visit-in-Vietnam.jpg",
+            "location": "Italy",
+            "rating": "5.0",
+            "key": "0"
+        },
+        {
+            "Title": "Philippines",
+            "imgPlace": "https://raw.githubusercontent.com/hakymz/TravelAppUIReactNative/main/src/assets/onboardImage.jpg",
+            "recommend": "https://globalgrasshopper.com/wp-content/uploads/2011/11/Son-Tra-Peninsula-1.jpg",
+            "location": "Italy",
+            "rating": "5.0",
+            "key": "1"
+        },
+        {
+            "Title": "China",
+            "imgPlace": "https://www.indochinapioneer.com/wp-content/uploads/2017/10/Blue-Lagoon-Vang-Vieng.jpg",
+            "recommend": "https://globalgrasshopper.com/wp-content/uploads/2011/11/Top-10-of-the-most-beautiful-places-to-visit-in-Vietnam.jpg",
+            "location": "Canada",
+            "rating": "5.0",
+            "key": "3"
+        },
+        {
+            "Title": "Viet Nam",
+            "imgPlace": "https://raw.githubusercontent.com/hakymz/TravelAppUIReactNative/main/src/assets/location4.jpg",
+            "recommend": "https://globalgrasshopper.com/wp-content/uploads/2011/11/Tram-Ton-Pass-Vietnam.jpg",
+            "location": "VietNam",
+            "rating": "5.0",
+            "key": "4"
+        },
+        {
+            "Title": "lorem Ipsum",
+            "imgPlace": "https://www.indochinapioneer.com/wp-content/uploads/2017/07/Turquoise-water-of-Kuang-Si-waterfall-Luang-Prabang.-Laos.jpg.webp",
+            "recommend": "https://globalgrasshopper.com/wp-content/uploads/2011/11/Ghenh-Da-Dia-1.jpg",
+            "location": "VietNam",
+            "rating": "5.0",
+            "key": "5"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "Login": [
+        {
+            "name": "long",
+            "pass":"12345678a"
+        },
+        {
+            "name":"kien",
+            "pass":"12345678"
+        },
+        {
+            "name":"admin",
+            "pass":"admin"
+        },
+        {
+            "name":"1",
+            "pass":"1"
+        }
+    ]
+}

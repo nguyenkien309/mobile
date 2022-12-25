@@ -1,0 +1,31 @@
+{
+    "Detail": [
+        {
+            "name": "Thanh hoa",
+            "desc": "Feels like 26°C. Overcast clouds. Moderate breeze",
+            "icon": "http://openweathermap.org/img/wn/04n@2x.png",
+            "wind": "5.8m/s",
+            "pressure": "1006hPA",
+            "Humidity": "71%",
+            "UV": "2",
+            "Dewpoint": "20",
+            "Visibility": "10.0km",
+            "key": "0"
+        }
+    ],
+    "Hourly": [
+        {
+            "hour": "0",
+            "icon": "http://openweathermap.org/img/wn/10d@2x.png",
+            "day": "29°C",
+            "key": "0"
+        }
+    ], 
+    "Future8Days": [
+        {
+            "date": "Fri, Oct 08",
+            "icon": "http://openweathermap.org/img/wn/04n@2x.png",
+            "day": "31/25°C"
+        }
+    ]
+}

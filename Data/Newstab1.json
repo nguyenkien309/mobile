@@ -1,0 +1,40 @@
+{
+    "News": [
+        {
+            "newsImage": "https://nld.mediacdn.vn/291774122806476800/2021/10/17/photo-1-16344427976381450843234.jpg",
+            "descImage": "HOT",
+            "By": "Brendan Smialowski / AFP - Getty Images file",
+            "Title": "Bé trai 13 tuổi bị bắn chết khi đang chơi iPad trong phòng ngủ",
+            "Related1": "Chui vào tủ đông trốn hàng loạt vì xả súng điên cuồng ở Mỹ",
+            "Related2": "Mỹ: Xả súng tại tiệc tốt nghiệp, thương vong hàng loạt",
+            "Key": "0"
+        },
+        {
+            "newsImage": "https://nld.mediacdn.vn/thumb_w/684/2021/1/2/photo-1-1609551306981824573483.jpg",
+            "descImage": "OUT Politics and Policy", 
+            "By": "Bryan Anderson / AP file",
+            "Title": "Mỹ lại sôi sục trước đoạn clip cảnh sát bắn chết người da màu",
+            "Related1": "Mỹ: Cảnh sát bắn chết người da màu bị đưa ra tòa",
+            "Related2": "Mỹ lại nóng sau vụ cảnh sát bắn người da màu",
+            "Key": "1"
+        },
+        {
+            "newsImage": "https://nld.mediacdn.vn/thumb_w/684/2018/10/27/active-shooter-15406540621961292214930.jpg",
+            "descImage": "World",
+            "By": "Olivia Zhang / AP",
+            "Title": "Xả súng tại giáo đường Do Thái, nhiều người thiệt mạng",
+            "Related1": "60 năm truy lùng kẻ mang biệt danh Thiên thần của sự chết vì các thử nghiệm kinh khủng tiến hành trên những người Do Thái",
+            "Related2": "Bi đát cảnh bán con trả nợ ở Afghanistan",
+            "Key": "2"
+        },
+        {
+            "newsImage": "https://nld.mediacdn.vn/thumb_w/684/2020/6/16/utf-8qme1bbb9-15923148146891558729733.jpg",
+            "descImage": "OUT Life and Style",
+            "By": "Matt Lavietes",
+            "Title": "Vận động điều tra nạn phân biệt chủng tộc ở Mỹ",
+            "Related1": "Kết quả Oscar lần thứ 91: Phân biệt chủng tộc vẫn là nỗi ám ảnh",
+            "Related2": "Chống phân biệt chủng tộc, Julianne Moore vận động đổi tên",
+            "Key": "3"
+        }
+    ]
+}

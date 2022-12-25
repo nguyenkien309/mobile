@@ -1,0 +1,52 @@
+{
+    "Future8Days": [
+        {
+            "date": "Fri, Oct 08",
+            "icon": "http://openweathermap.org/img/wn/10d@2x.png",
+            "day": "31/25°C",
+            "key": "0"
+        },
+        {
+            "date": "Sat, Oct 09",
+            "icon": "http://openweathermap.org/img/wn/10d@2x.png",
+            "day": "31/25°C",
+            "key": "1"
+        },
+        {
+            "date": "Sun, Oct 10",
+            "icon": "http://openweathermap.org/img/wn/10d@2x.png",
+            "day": "31/25°C",
+            "key": "2"
+        },
+        {
+            "date": "Mon, Oct 11",
+            "icon": "http://openweathermap.org/img/wn/10d@2x.png",
+            "day": "31/25°C",
+            "key": "3"
+        },
+        {
+            "date": "Tue, Oct 12",
+            "icon": "http://openweathermap.org/img/wn/10d@2x.png",
+            "day": "31/25°C",
+            "key": "4"
+        },
+        {
+            "date": "Wed, Oct 13",
+            "icon": "http://openweathermap.org/img/wn/10d@2x.png",
+            "day": "31/25°C",
+            "key": "5"
+        },
+        {
+            "date": "Thu, Oct 14",
+            "icon": "http://openweathermap.org/img/wn/10d@2x.png",
+            "day": "31/25°C",
+            "key": "6"
+        },
+        {
+            "date": "Fri, Oct 15",
+            "icon": "http://openweathermap.org/img/wn/10d@2x.png",
+            "day": "31/25°C",
+            "key": "7"
+        }
+    ]
+}

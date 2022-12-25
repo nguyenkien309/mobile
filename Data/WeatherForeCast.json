@@ -1,0 +1,54 @@
+{
+    "forecast": [
+        {
+            "current": "Sunday",
+            "icon": "http://openweathermap.org/img/wn/10d@2x.png",
+            "day": "25",
+            "night": "26",
+            "key": "0"
+        },
+        {
+            "current": "Monday",
+            "icon": "http://openweathermap.org/img/wn/10d@2x.png",
+            "day": "25",
+            "night": "26",
+            "key": "1"
+        },
+        {
+            "current": "Tuesday",
+            "icon": "http://openweathermap.org/img/wn/10d@2x.png",
+            "day": "25",
+            "night": "26",
+            "key": "2"
+        },
+        {
+            "current": "Wednesday",
+            "icon": "http://openweathermap.org/img/wn/10d@2x.png",
+            "day": "25",
+            "night": "26",
+            "key": "3"
+        },
+        {
+            "current": "Thursday",
+            "icon": "http://openweathermap.org/img/wn/10d@2x.png",
+            "day": "25",
+            "night": "26",
+            "key": "4"
+        },
+        {
+            "current": "Friday",
+            "icon": "http://openweathermap.org/img/wn/10d@2x.png",
+            "day": "25",
+            "night": "26",
+            "key": "5"
+
+        },
+        {
+            "current": "Saturday",
+            "icon": "http://openweathermap.org/img/wn/10d@2x.png",
+            "day": "25",
+            "night": "26",
+            "key": "6"
+        }
+    ]
+}
